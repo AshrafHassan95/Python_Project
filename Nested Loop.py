@@ -9,3 +9,5 @@ for x_count in numbers:
 for x in range(5):
     for y in range(4):
         print(f"({x}),({y})")
+
+        ajkhdahdaklnc
