@@ -13,6 +13,6 @@ digits_mapping = {
 }
 output = ""
 for ch in phone:
-    output += digits_mapping.get(ch, "not define") + " "
+    output += digits_mapping.get(ch, "Not define") + " "
 print(output)
 
